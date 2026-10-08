@@ -1,8 +1,16 @@
 # 🚀 Mastering PPO: The Sanity Check (InvertedPendulum-v4)
-
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Gymnasium](https://img.shields.io/badge/Gymnasium-RL_Environment-112C3E)](https://gymnasium.farama.org/)
+[![MuJoCo](https://img.shields.io/badge/MuJoCo-Physics_Engine-1A1A1A?logo=google&logoColor=white)](https://mujoco.org/)
+[![Stable Baselines3](https://img.shields.io/badge/Stable_Baselines3-Production_RL-4B8BBE)](https://stable-baselines3.readthedocs.io/)
+[![NumPy](https://img.shields.io/badge/NumPy-Mathematics-013243?logo=numpy&logoColor=white)](https://numpy.org/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Model_Training-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/)
 This repository documents the foundational step in Deep Reinforcement Learning (RL): solving the classic Inverted Pendulum continuous control problem using the **Proximal Policy Optimization (PPO)** algorithm. Serving as the ultimate **"Sanity Check,"** this project ensures that the physics engine (MuJoCo), the cloud environment (Kaggle), and the RL pipeline are perfectly aligned before tackling highly complex robotic tasks.
 
 ---
+<img width="984" height="851" alt="InvertedPendulum" src="https://github.com/user-attachments/assets/c0208457-487b-40c3-93c3-c9607f6712a9" />
+
 
 ## 🛤️ The Journey (Project Phases)
 
@@ -67,4 +75,8 @@ pip install torch numpy gymnasium[mujoco] stable-baselines3[extra] imageio image
 
 ---
 
+## 👨‍💻 Author
+**Mohammed Arif Mahyoub Haider**
+
+*Electrical Engineer - Computer and Industrial Control*
 
